@@ -36,7 +36,7 @@ https://github.com/HugoCreate/lab-hack-nexus
 
 Os arquivos do projeto estão organizados da seguinte maniera
 
-```mermaid
+```
 /
 ├─node_modules/ 		# pacotes
 ├─public/				# arquivos estáticos
