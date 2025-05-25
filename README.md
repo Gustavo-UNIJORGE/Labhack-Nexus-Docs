@@ -43,7 +43,7 @@ Os arquivos do projeto estão organizados da seguinte maneira
 ├─src/					# diretório principal do projeto
 │	├── components			# Componentes reutilizáveis da interface (botões, inputs, cards, etc.) 	
 │	├── contexts			# Contextos React para gerenciamento de estado global (ex: autenticação, tema)
-│	├── hooks			# Hooks personalizados do React — atualmente contém `useSupabase`, que encapsula o cliente do Supabase para facilitar sua 	|					  reutilização em componentes.
+│	├── hooks			# Hooks personalizados do React — atualmente contém `useSupabase`, que encapsula o cliente do Supabase para facilitar sua reutilização em componentes.
 │	├── integrations		# Integrações externas — contém configuração do Supabase (`supabase.ts`) usada em toda a aplicação.
 │	├── lib				# Funções utilitárias, helpers e lógica compartilhada
 │	├── pages			# Páginas da aplicação (cada rota corresponde a um arquivo/pasta)
